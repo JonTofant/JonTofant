@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @JonTofant
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning Blockchain
+- 👀 I’m an undergraduate student of mechatronics
+- 🌱 I’m currently learning control theory
 - 📫 How to reach me jon.tofant@student.um.si
