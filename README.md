@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @JonTofant
 - 👀 I’m an undergraduate student of mechatronics
-- 🌱 I’m currently learning control theory
+- 🌱 I’m currently making my own robot arm
 - 📫 How to reach me jon.tofant@student.um.si
