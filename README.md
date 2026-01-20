@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @JonTofant
 - 👀 I’m an PHD student of Robotics and Automation
-- 📫 How to reach me jon.tofant@student.um.si
+- 📫 How to reach me jon.tofant1@student.um.si
